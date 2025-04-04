@@ -1,0 +1,16 @@
+<theme>
+    <variant name="all">
+        
+       <view name="gamelist">
+        <text name="systemName, autoCollectionName, customCollectionName">
+            <pos>0.825 0.335</pos>
+            <size>0.3 0.1</size>
+            <fontSize>0.04</fontSize>
+        </text>
+        <!--<text name="md_des">
+            <fontSize>0.0275</fontSize>
+            <lineSpacing>1.1</lineSpacing>
+        </text>-->
+    </view>
+    </variant>
+</theme>

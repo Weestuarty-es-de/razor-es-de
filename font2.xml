@@ -1,0 +1,42 @@
+<theme>
+    <variant name="meta2, nometa2">
+        <variables>
+            <mainFont>./assets/fonts/lcd.ttf</mainFont>
+        </variables>
+    <fontSize name="medium">
+        <variables>
+            <fontSize>0.025</fontSize>
+            <fontSize1>0.0275</fontSize1>
+            <fontSize2>0.045</fontSize2>
+            <fontSize3>0.04</fontSize3>
+            <fontSize4>0.05</fontSize4>
+            <gridSize>0.2125 0.135</gridSize>
+        </variables>
+    </fontSize>
+
+    <fontSize name="large">
+        <variables>
+            <fontSize>0.03</fontSize>
+            <fontSize1>0.0325</fontSize1>
+            <fontSize2>0.05</fontSize2>
+            <fontSize3>0.045</fontSize3>
+            <fontSize4>0.055</fontSize4>
+            <gridSize>0.283 0.16875</gridSize>
+        </variables>
+    </fontSize>
+
+    <fontSize name="x-large">
+        <variables>
+            <fontSize>0.035</fontSize>
+            <fontSize1>0.0375</fontSize1>
+            <fontSize2>0.055</fontSize2>
+            <fontSize3>0.05</fontSize3>
+            <fontSize4>0.06</fontSize4>
+            <gridSize>0.283 0.16875</gridSize>
+        </variables>
+    </fontSize>
+    </variant>
+
+    
+
+</theme>

@@ -1,0 +1,145 @@
+<themeCapabilities>
+    <themeName>Razor</themeName>
+
+    <aspectRatio>16:9</aspectRatio>
+    <aspectRatio>16:10</aspectRatio>
+    <aspectRatio>4:3</aspectRatio>
+    <aspectRatio>21:9</aspectRatio>
+
+    <fontSize>medium</fontSize>
+    <fontSize>large</fontSize>
+    <fontSize>x-large</fontSize>
+
+    <language>en_US</language>
+    <language>en_GB</language>
+    <language>ca_ES</language>
+    <language>de_DE</language>
+    <language>es_ES</language>
+    <language>fr_FR</language>
+    <language>it_IT</language>
+    <language>nl_NL</language>
+    <language>pl_PL</language>
+    <language>pt_BR</language>
+    <language>ro_RO</language>
+    <language>ru_RU</language>
+    <language>sv_SE</language>
+    <language>ja_JP</language>
+    <language>ko_KR</language>
+    <language>zh_CN</language>
+    <language>zh_TW</language>
+
+    <colorScheme name="watch">
+        <label>Game & Watch</label>
+    </colorScheme>
+
+    <colorScheme name="gameboy">
+        <label>Gameboy</label>
+    </colorScheme>
+
+    <colorScheme name="classy">
+        <label>Classy</label>
+    </colorScheme>
+
+    <colorScheme name="blue">
+        <label>Blue LCD</label>
+    </colorScheme>
+    <colorScheme name="dark">
+        <label>Dark</label>
+    </colorScheme>
+
+    <colorScheme name="yellow">
+        <label>Yellow</label>
+    </colorScheme>
+    <transitions name="instant">
+        <label>instant</label>
+        <selectable>true</selectable>
+        <systemToSystem>instant</systemToSystem>
+        <systemToGamelist>instant</systemToGamelist>
+        <gamelistToGamelist>instant</gamelistToGamelist>
+        <gamelistToSystem>instant</gamelistToSystem>
+        <startupToSystem>slide</startupToSystem>
+        <startupToGamelist>slide</startupToGamelist>
+    </transitions>
+
+    <transitions name="instantAndSlide">
+        <label>instant and slide</label>
+        <selectable>true</selectable>
+        <systemToSystem>instant</systemToSystem>
+        <systemToGamelist>slide</systemToGamelist>
+        <gamelistToGamelist>slide</gamelistToGamelist>
+        <gamelistToSystem>slide</gamelistToSystem>
+        <startupToSystem>slide</startupToSystem>
+        <startupToGamelist>slide</startupToGamelist>
+    </transitions>
+
+    <transitions name="instantAndFade">
+        <label>instant and fade</label>
+        <selectable>true</selectable>
+        <systemToSystem>instant</systemToSystem>
+        <systemToGamelist>fade</systemToGamelist>
+        <gamelistToGamelist>fade</gamelistToGamelist>
+        <gamelistToSystem>fade</gamelistToSystem>
+        <startupToSystem>slide</startupToSystem>
+        <startupToGamelist>slide</startupToGamelist>
+    </transitions>
+
+    <suppressTransitionProfiles>
+        <entry>builtin-instant</entry>
+        <entry>builtin-slide</entry>
+        <entry>builtin-fade</entry>
+    </suppressTransitionProfiles>
+
+    <variant name="ncm">
+        <label>gb w/Metadata(no color)</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="acm">
+        <label>Alt w/Metadata(no color)</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="lcm">
+        <label>LCD w/Metadata(no color)</label>
+        <selectable>true</selectable>
+    </variant>
+
+    <variant name="ncnm">
+        <label>gb w/o Metadata (no color)</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="acnm">
+        <label>Alt w/o Metadata (no color)</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="lcnm">
+        <label>LCD w/o Metadata (no color)</label>
+        <selectable>true</selectable>
+    </variant>
+
+    <variant name="meta">
+        <label>gb w/Metadata</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="meta2">
+        <label>LCD w/Metadata</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="meta3">
+        <label>alt w/Metadata</label>
+        <selectable>true</selectable>
+    </variant>
+
+
+    <variant name="nometa">
+        <label>gb w/o Metadata</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="nometa2">
+        <label>LCD w/o Metadata</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="nometa3">
+        <label>alt w/o Metadata</label>
+        <selectable>true</selectable>
+    </variant>
+
+</themeCapabilities>

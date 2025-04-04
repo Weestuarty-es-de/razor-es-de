@@ -1,0 +1,16 @@
+<theme>
+   <variables>
+      <systemName>Billybob</systemName>
+      <systemDescription>Tesing </systemDescription>
+      <systemManufacturer>Weestuarty</systemManufacturer>
+      <systemReleaseYear>1980</systemReleaseYear>
+      <systemReleaseDate>1980-10-04</systemReleaseDate>
+      <systemReleaseDateFormated>October 4, 1993</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>CFA83E</systemColor>
+      <systemColorPalette1>FF0000</systemColorPalette1>
+      <systemColorPalette2>0000A0</systemColorPalette2>
+      <systemColorPalette3>FFE41B</systemColorPalette3>
+      <systemColorPalette4>23B14D</systemColorPalette4>
+   </variables>
+</theme>

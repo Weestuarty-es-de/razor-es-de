@@ -1,0 +1,9 @@
+<theme>
+    <variant name="all">
+        <view name="gamelist">
+            <text name="systemName, autoCollectionName, customCollectionName">
+                <fontSize>0.035</fontSize>
+            </text>
+        </view>
+    </variant>
+</theme>

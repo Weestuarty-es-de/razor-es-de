@@ -1,0 +1,29 @@
+<theme>
+    <variant name="all">
+        <view name="system">
+            <text name="gameCounter">
+                <pos>0.93 0.825</pos>
+                <size>0.1 0.08</size>
+                <rotation>90</rotation>
+                <systemdata>gamecountGames</systemdata>
+                <fontPath>${mainFont}</fontPath>
+                <fontSize>0.0275</fontSize>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${mainColor}</color>
+                <letterCase>capitalize</letterCase>
+                <zIndex>10</zIndex>
+            </text>
+       </view>
+       <view name="gamelist">
+        <text name="systemName, autoCollectionName, customCollectionName">
+            <pos>0.715 0.335</pos>
+            <size>0.525 0.1</size>
+            <fontSize>0.04</fontSize>
+        </text>
+        <text name="md_des">
+            <fontSize>0.0275</fontSize>
+            <lineSpacing>1.1</lineSpacing>
+        </text>
+    </view>
+    </variant>
+</theme>

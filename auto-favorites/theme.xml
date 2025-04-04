@@ -1,0 +1,27 @@
+<theme>
+    <include>./../theme.xml</include>
+    <include>./colors.xml</include>
+
+    <variant name="meta">
+        <view name="gamelist">
+            <text name="collectionsSystemName">
+                <metadata>sourceSystemFullname</metadata>
+                <origin>0.5 0</origin>
+                <pos>0.5 0.83</pos>
+                <size>0.4 0.1</size>
+                <horizontalAlignment>center</horizontalAlignment>
+                <letterCase>capitalize</letterCase>
+                <zIndex>10</zIndex>
+            </text>
+           
+            <text name="md_name">
+                <pos>0.5 0.875</pos>
+                <size>0.85 0.09</size>
+                <origin>0.5 0</origin>
+                <metadata>name</metadata>
+                <systemNameSuffix>false</systemNameSuffix>
+               
+            </text>
+        </view>
+    </variant>
+</theme>

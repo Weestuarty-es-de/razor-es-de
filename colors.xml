@@ -1,0 +1,66 @@
+<theme>
+    <colorScheme name="dark">
+        <variables>
+            <colorSchemeName>dark</colorSchemeName>
+            <backgroundColor>323232</backgroundColor>
+            <mainColor>FFFFFF</mainColor> 
+            <gridColor>E2E2E2</gridColor> 
+            <selectColor>E2E2E2</selectColor>          
+        </variables>
+    </colorScheme>
+
+    <colorScheme name="watch">
+        <variables>
+            <colorSchemeName>watch</colorSchemeName>
+            <backgroundColor>6e706d</backgroundColor>
+            <mainColor>000000</mainColor>
+            
+            <selectColor>6e706d</selectColor>  
+            <gridColor>4e504d</gridColor>
+            
+        </variables>
+    </colorScheme>
+    <colorScheme name="classy">
+        <variables>
+            <colorSchemeName>classy</colorSchemeName>
+            <backgroundColor>561420</backgroundColor>
+            <mainColor>c59a6f</mainColor>
+            
+            <selectColor>561420</selectColor>  
+            <gridColor>c59a6f</gridColor>
+        </variables>
+    </colorScheme>
+    <colorScheme name="blue">
+        <variables>
+            <colorSchemeName>blue</colorSchemeName>
+            <backgroundColor>1b20b7</backgroundColor>
+            <mainColor>9fac9b</mainColor>
+            
+            <selectColor>7272E2</selectColor>  
+            <gridColor>9292E2</gridColor>
+        </variables>
+    </colorScheme>
+    <colorScheme name="gameboy">
+        <variables>
+            <colorSchemeName>gameboy</colorSchemeName>
+            <backgroundColor>75a883</backgroundColor>
+            <mainColor>3e4943</mainColor>
+            
+            <selectColor>75a883</selectColor>  
+            <gridColor>75a883</gridColor>
+           
+        </variables>
+    </colorScheme>
+    <colorScheme name="yellow">
+        <variables>
+            <colorSchemeName>yellow</colorSchemeName>
+            <backgroundColor>111111</backgroundColor>
+            <mainColor>D4AF37</mainColor>
+            
+            <selectColor>946F07</selectColor>  
+            <gridColor>D4AF37</gridColor>
+            
+        </variables>
+    </colorScheme>
+        
+</theme>

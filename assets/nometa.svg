@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99998 285.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="nometa.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.31848958"
+     inkscape:cx="339.10058"
+     inkscape:cy="1478.8553"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect233-4-2-1-7-7"
+       style="fill:#ffffff;stroke-width:1.26956;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="m 469.77719,270.14763 14.499,15.85315 -1.92185,-0.0481 -13.92845,-15.17467 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect233-4-2-1-7-7-7"
+       style="fill:#ffffff;stroke-width:1.26956;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="m 38.362616,270.10801 -14.421504,15.72818 2.032,0.062 13.740804,-15.15984 z"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#ffffff;stroke-width:1.06685;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect1134"
+       width="431.40875"
+       height="1.518955"
+       x="38.329464"
+       y="270.11765" />
+  </g>
+</svg>

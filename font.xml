@@ -1,0 +1,206 @@
+<theme>
+    <variant name="meta, meta2,meta3,ncm,acm,lcm">
+        <fontSize name="medium">
+            <variables>
+                <gridSize>0.2125 0.135</gridSize>
+                <gridSize2>0.1425 0.135</gridSize2>
+            </variables>
+        </fontSize>
+        <fontSize name="large">
+            <variables>
+                <gridSize>0.283 0.16875</gridSize>
+            <gridSize2>0.19 0.2025</gridSize2>
+            </variables>
+        </fontSize>
+        <fontSize name="x-large">
+            <variables>
+                <gridSize>0.4245 0.225</gridSize>
+                <gridSize2>0.285 0.27</gridSize2>
+            </variables>
+        </fontSize>
+    </variant>
+    <variant name="nometa, nometa2, nometa3, ncnm, acnm,lcnm">
+        <fontSize name="medium">
+            <variables>
+                <gridSize>0.2125 0.15</gridSize>
+                <gridSize2>0.1425 0.135</gridSize2>
+            </variables>
+        </fontSize>
+        <fontSize name="large">
+            <variables>
+                <gridSize>0.283 0.1775</gridSize>
+            <gridSize2>0.214 0.218</gridSize2>
+            </variables>
+        </fontSize>
+        <fontSize name="x-large">
+            <variables>
+                <gridSize>0.4245 0.225</gridSize>
+                <gridSize2>0.285 0.29</gridSize2>
+            </variables>
+        </fontSize>
+    </variant>
+    <variant name="meta, nometa, ncm, ncnm">
+        <variables>
+            <mainFont>./assets/fonts/gb.ttf</mainFont>
+        </variables>
+    <fontSize name="medium">
+        <variables>
+            <sysside>0.03</sysside>
+            <sysmeta>0.03</sysmeta>
+            <systitle>0.04</systitle>
+            <sysselect>0.045</sysselect>
+            <gridtext>0.02</gridtext>
+            <gamerel>0.025</gamerel>
+            <gameplay>0.025</gameplay>
+            <gametitle>0.04</gametitle>
+            <gamemeta>0.03</gamemeta>
+            <help>0.03</help>
+
+        </variables>
+    </fontSize>
+
+    <fontSize name="large">
+        <variables>
+            <sysside>0.0345</sysside>
+            <sysmeta>0.0375</sysmeta>
+            <systitle>0.04</systitle>
+            <sysselect>0.0525</sysselect>
+            <gridtext>0.05</gridtext>
+            <gamerel>0.03</gamerel>
+            <gameplay>0.03125</gameplay>
+            <gametitle>0.05</gametitle>
+            <gamemeta>0.0375</gamemeta>
+            <help>0.03625</help>
+
+        </variables>
+    </fontSize>
+
+    <fontSize name="x-large">
+        <variables>
+            <sysside>0.039</sysside>
+            <sysmeta>0.045</sysmeta>
+            <systitle>0.04</systitle>
+            <sysselect>0.06</sysselect>
+            <gridtext>0.06</gridtext>
+            <gamerel>0.035</gamerel>
+            <gameplay>0.0375</gameplay>
+            <gametitle>0.06</gametitle>
+            <gamemeta>0.045</gamemeta>
+            <help>0.0425</help>
+
+           
+        </variables>
+    </fontSize>
+    </variant>
+
+    <variant name="meta2, nometa2, lcnm, lcm">
+        <variables>
+            <mainFont>./assets/fonts/lcd.otf</mainFont>
+        </variables>
+    <fontSize name="medium">
+        <variables>
+            <sysside>0.0225</sysside>
+            <sysmeta>0.025</sysmeta>
+            <systitle>0.03</systitle>
+            <sysselect>0.03</sysselect>
+            <gridtext>0.02</gridtext>
+            <gamerel>0.02</gamerel>
+            <gameplay>0.02</gameplay>
+            <gametitle>0.03</gametitle>
+            <gamemeta>0.0225</gamemeta>
+            <help>0.025</help>
+
+
+        </variables>
+    </fontSize>
+
+    <fontSize name="large">
+        <variables>
+            <sysside>0.025</sysside>
+            <sysmeta>0.0275</sysmeta>
+            <systitle>0.0325</systitle>
+            <sysselect>0.0325</sysselect>
+            <gridtext>0.035</gridtext>
+            <gamerel>0.0225</gamerel>
+            <gameplay>0.0225</gameplay>
+            <gametitle>0.035</gametitle>
+            <gamemeta>0.0275</gamemeta>
+            <help>0.0275</help>
+
+            
+        </variables>
+    </fontSize>
+
+    <fontSize name="x-large">
+        <variables>
+            <sysside>0.0275</sysside>
+            <sysmeta>0.03</sysmeta>
+            <systitle>0.035</systitle>
+            <sysselect>0.035</sysselect>
+            <gridtext>0.04</gridtext>
+            <gamerel>0.025</gamerel>
+            <gameplay>0.025</gameplay>
+            <gametitle>0.04</gametitle>
+            <gamemeta>0.0325</gamemeta>
+            <help>0.03</help>
+           
+        </variables>
+    </fontSize>
+    </variant>
+
+    <variant name="meta3, nometa3, acnm, acm">
+        <variables>
+            <mainFont>./assets/fonts/unispace.otf</mainFont>
+        </variables>
+    <fontSize name="medium">
+        <variables>
+            <sysside>0.0225</sysside>
+            <sysmeta>0.025</sysmeta>
+            <systitle>0.03</systitle>
+            <sysselect>0.03</sysselect>
+            <gridtext>0.02</gridtext>
+            <gamerel>0.02</gamerel>
+            <gameplay>0.02</gameplay>
+            <gametitle>0.03</gametitle>
+            <gamemeta>0.0225</gamemeta>
+            <help>0.025</help>
+
+           
+        </variables>
+    </fontSize>
+
+    <fontSize name="large">
+        <variables>
+            <sysside>0.02625</sysside>
+            <sysmeta>0.03</sysmeta>
+            <systitle>0.0325</systitle>
+            <sysselect>0.035</sysselect>
+            <gridtext>0.02</gridtext>
+            <gamerel>0.024</gamerel>
+            <gameplay>0.024</gameplay>
+            <gametitle>0.0375</gametitle>
+            <gamemeta>0.0275</gamemeta>
+            <help>0.03</help>
+
+            
+        </variables>
+    </fontSize>
+
+    <fontSize name="x-large">
+        <variables>
+            <sysside>0.03</sysside>
+            <sysmeta>0.035</sysmeta>
+            <systitle>0.035</systitle>
+            <sysselect>0.04</sysselect>
+            <gridtext>0.02</gridtext>
+            <gamerel>0.028</gamerel>
+            <gameplay>0.028</gameplay>
+            <gametitle>0.045</gametitle>
+            <gamemeta>0.0325</gamemeta>
+            <help>0.035</help>
+
+        </variables>
+    </fontSize>
+    </variant>
+
+</theme>
